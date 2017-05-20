@@ -1,0 +1,47 @@
+* {
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+body {
+background-color: lightblue;
+padding-left: 2em;	
+}
+
+h1 {
+	color: #2072f7;
+}
+
+table {
+	border-collapse: collapse;
+	/*margin: 0px 150px 0px 150px;*/
+	width: 21.5em;
+	margin: 0.5em 0em;
+}
+
+table, th, td {
+	border: 2px solid purple;
+}
+
+.weerfoto {
+	bottom: 270px;
+	left: 1100px;
+	position: absolute;
+	float: right;
+}
+
+
+.temperaturen {
+	border: 1px solid black;
+	width: 20em;
+	padding: 0.5em 0.75em;
+	border-radius: 0.5em;
+}
+
+.active {
+	background-color: #333333;
+	color: whitesmoke;
+}
